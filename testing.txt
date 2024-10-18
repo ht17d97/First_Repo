@@ -1,0 +1,32 @@
+Filtered Catalog Tasks list showing 1 to 1 of 1 records
+Catalog Tasks
+
+Number
+Search
+Actions on selected rows
+Actions on selected rows...
+>>
+Catalog Tasks table. Currently in read mode.
+
+Number
+State
+Request
+Assigned to
+Short description
+Activity due
+Approval
+Client
+Assignment group
+Business duration
+Additional assignee list
+Approval set
+Approval history
+Active
+
+SCTASK6065825	Waiting on Client	REQ3754585	Himanshu Tariyal	Grant access to fredcpappgp0008.global.publicisgroupe.net	UNKNOWN	Not Yet Requested	Thibaut Gemin	GLBL-Infra-DC-OPS-Linux			
+(empty)
+true
+1
+Showing rows 1 to 1 of 1
+to 1 of 1
+
