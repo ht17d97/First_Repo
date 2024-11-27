@@ -1,0 +1,13 @@
+---
+- name: Create a new user
+  hosts: all
+  become: yes
+
+  tasks:
+   - name:
+     user:
+        name: readonly
+        password: '$6$O3n23EGhvZXISgTK$3SZDQkJzfhFQNltD8Fp/9yAlI7/i6f8lan5r3cwW1KgY8OvG8GC1s4Seob0uyjs4TheBUXXpzIdNpYx8n/2Mi.'
+        state: present
+##passwd=test@123
+
